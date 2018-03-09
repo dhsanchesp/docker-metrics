@@ -1,7 +1,7 @@
 Metrics with Prometheus, PushGateway and Grafana
 ========
 
-Docker containers for [Prometheus](https://prometheus.io/), [Grafana](http://grafana.org/), e [AlertManager](https://github.com/prometheus/alertmanager).
+Docker containers for [Prometheus](https://prometheus.io/), [Grafana](http://grafana.org/), and [AlertManager](https://github.com/prometheus/alertmanager).
 
 ## Installation
 
